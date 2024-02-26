@@ -1,0 +1,25 @@
+.title {
+ font-size: 100px;
+}
+
+body {
+    background-color: #000000;
+   }
+
+.picus {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.image {
+    display: flex;
+    align-items: end;
+}
+
+.espacio {
+    gap: 32px;
+    margin: auto;
+    padding: 10px;
+}
